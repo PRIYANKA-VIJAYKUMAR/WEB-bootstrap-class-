@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg:nth-child(odd){
+    background-color: brown;
+    color: aqua;
+    border: 1px solid black;
+}
+.bg:nth-child(even){
+    background-color: blueviolet;
+    color: aliceblue;
+    border: 1px solid black;
+}
